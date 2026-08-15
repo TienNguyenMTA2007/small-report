@@ -24,7 +24,7 @@ Vì vậy, cấu trúc plasmonic có khả năng tập trung ánh sáng vào m�
 * MIM có thể khả năng hoạt động như một **buồng cộng hưởng Fabry–Perot**, trong đó các sóng điện từ phản xạ qua lại giữa các lớp có thể giao thoa với nhau. Khi điều kiện cộng hưởng được đáp ứng, trường điện từ trong vùng điện môi được tăng cường và năng lượng ánh sáng có thể được hấp thụ mạnh hơn trong cấu trúc.
 
 ---
-## Phân tích nguyên lý cộng hưởng MIM
-
+## Mô phỏng
+Bọn em hiện đang dùng giao diện visual studio code vs ngôn ngữ python để mô phỏng 1 số các tương tác vật lý ở cấu trúc nano, dùng thư viện pygdm2 để mô phỏng các tính chất vật lý kết hợp với thư viện matplotlib của python để vẽ các mô phỏng đó; Cũng có thể dùng thư viện numpy để tạo giá trị mô phỏng và thực hiện các phép toán trên nhiều giá trị.
 
 
