@@ -27,4 +27,14 @@ Vì vậy, cấu trúc plasmonic có khả năng tập trung ánh sáng vào m�
 ## Mô phỏng
 Bọn em hiện đang dùng giao diện visual studio code vs ngôn ngữ python để mô phỏng 1 số các tương tác vật lý ở cấu trúc nano, dùng thư viện pygdm2 để mô phỏng các tính chất vật lý kết hợp với thư viện matplotlib của python để vẽ các mô phỏng đó; Cũng có thể dùng thư viện numpy để tạo giá trị mô phỏng và thực hiện các phép toán trên nhiều giá trị.
 
+* Mô phỏng phổ phản xạ của cấu trúc MIM Au/MgF₂/Au trong mt nước và không khí: không khí là đường màu đen, nước là đường màu đỏ ( numpy, matplotlib):
+<img src="https://github.com/TienNguyenMTA2007/small-report/blob/main/Reflectance.png" alt="Mô phỏng phổ phản xạ">
+source code:<a href="https://github.com/TienNguyenMTA2007/small-report/blob/main/pho_phan_xa.py">link</a>
+---
+* Mô phỏng trường điện trên quả cầu khi được chiếu bởi sóng phẳng ( numpy, pygdm2, matplotlib):
+<img src="https://github.com/TienNguyenMTA2007/small-report/blob/main/phan_bo_truong_dien.png" alt="Mô phỏng phổ phản xạ">
+source code:<a href="https://github.com/TienNguyenMTA2007/small-report/blob/main/phan_bo_truong_dien.py">link</a>
+---
+Ngoài ra, phần mô phỏng các cấu trúc MIM 3D, 2D thì có thể dùng photoshop, corel vs gimp, phần này bọn em chưa thử.
+
 
